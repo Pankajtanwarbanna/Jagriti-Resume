@@ -1,0 +1,50 @@
+{
+  "Education": [
+    "Malaviya National Institute of Technology, Jaipur",
+    "Modern Delhi Public School, Faridabad"
+  ],
+  "Internship Experience": [
+    "Software Developer Intern at Walmart India",
+    "Web Developer Intern at FollowClass",
+    "Software Developer Intern at FreeDoctorHelpline"
+  ],
+  "Key Projects" : [
+    "Youth Fest’19 Website : Website for Annual Fest of MNIT Jaipur ",
+    "Smiles for Miles : MEAN Stack platform for hostels, restaurants to post donation request of extra food for NGOs",
+    "School App Website : Website to improve upon the SEO rank of FollowClass platform",
+    "Minor Projects : PDF Merger , Image to PDF converter , Macro Processor for NASM , Speech to Text converter"
+  ],
+  "Technical Skills" : [
+    "Computer Programming Languages: C, C++, JAVA (BASIC), Python3",
+    "Web Technology : MEAN stack , HTML , CSS , Bootstrap",
+    "Platforms : Linux , Windows",
+    "Database : NoSQL ( MongoDB – Basic ), MySQL"
+  ],
+  "Achievements" : [
+    "1st Runner up in HACK-E-WEB hackathon organized in Sphinx’19 – MNIT Annual Tech Fest",
+    "2nd Runner Up among more than 20 colleges in HACK-E-WEB hackathon organized by Arceisum India Private Limited",
+    "Participated in India’s Largest Media Hackathon, Jaipur organized by Arya College",
+    "Secured 1st position in Ozone Day Quiz"
+  ],
+  "Position of Responsibility" : [
+    "Technical Head at Youth Fest’19 & Sphinx’19 MNIT Jaipur",
+    "Executive Member of Vyaktitva Srijan Club, MNIT Jaipur",
+    "Event organizer – MNIT Annual Socio – Cultural Fest Blitzschlag’18",
+    "Coordinator and Web Developer – MNIT Annual - Cultural Fest Youth Fest’18",
+    "Member of H.O.P.E – NGO for poor children and deprived sections of the society"
+  ],
+  "Area of Interest" : [
+    "Web Developement",
+    "Learning new technologies",
+    "Travelling"
+  ],
+  "Portfolio" : [
+    "www.jagriti.herokuapp.com"
+  ],
+  "Github" : [
+    "www.github.com/jagritiaggarwal"
+  ],
+  "Contact" : [
+    "jagriti.aggarwal30@gmail.com"
+  ]
+}
