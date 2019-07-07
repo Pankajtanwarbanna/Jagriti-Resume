@@ -15,6 +15,9 @@
   "bugs": {
     "url": "https://github.com/Pankajtanwarbanna/Jagriti-Resume/issues"
   },
+  "bin": {
+    "jagriti-resume": "./index.js"
+  },
   "homepage": "https://github.com/Pankajtanwarbanna/Jagriti-Resume#readme",
   "dependencies": {
     "chalk": "^2.4.2",
