@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/Pankajtanwarbanna/Jagriti-Resume/issues"
   },
-  "homepage": "https://github.com/Pankajtanwarbanna/Jagriti-Resume#readme"
+  "homepage": "https://github.com/Pankajtanwarbanna/Jagriti-Resume#readme",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "clear": "^0.1.0",
+    "figlet": "^1.2.3"
+  }
 }
